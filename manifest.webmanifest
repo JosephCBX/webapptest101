@@ -1,14 +1,14 @@
 {
-    "name": "iPad Calculator",
-    "short_name": "Calculator",
+    "name": "webapptest101",
+    "short_name": "Web App Test",
     "icons": [
       {
-        "src": "/iPad-Calculator/images/icon.png",
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfu1mi6LAfuv1HSVFYUtOVgBsIB5f96Ui_Xw&usqp=CAU",
         "sizes": "256x256",
         "type": "image/png"
       },
       {
-        "src": "/iPad-Calculator/images/icon.png",
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfu1mi6LAfuv1HSVFYUtOVgBsIB5f96Ui_Xw&usqp=CAU",
         "sizes": "512x512",
         "type": "image/png"
       }
@@ -17,13 +17,13 @@
     "categories": ["utilites", "productivity", "calculator"],
     "screenshots" : [
         {
-            "src": "/iPad-Calculator/images/calculator-image.jpeg",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfu1mi6LAfuv1HSVFYUtOVgBsIB5f96Ui_Xw&usqp=CAU",
             "sizes": "1280x889",
             "type": "image/jpeg",
             "platform": "wide",
-            "label": "Calculator for iPad (using Stage Manager mode)"
+            "label": "webapptest101 desc"
         }
     ],
     "display": "standalone",
-    "start_url": "/iPad-Calculator/"
+    "start_url": "/index.html"
 }
